@@ -565,3 +565,101 @@ The CRYPTO IMPERIAL Ecosystem is intended to evolve into a coherent architectura
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/PUBLIC-PRIVATE-BOUNDARY.md
+# Public / Private Boundary
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Boundary
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document defines the permanent engineering boundary between publicly available documentation and confidential engineering assets within the CRYPTO IMPERIAL Ecosystem.
+
+The objective is to maximize architectural transparency while protecting implementation, infrastructure and operational security.
+
+---
+
+# Public Information
+
+The public repository may include:
+
+- engineering architecture;
+- long-term vision;
+- governance;
+- documentation;
+- engineering terminology;
+- repository navigation;
+- public token registry;
+- verified public contract references;
+- public diagrams;
+- engineering principles.
+
+---
+
+# Private Information
+
+The following information intentionally remains private:
+
+- implementation source code;
+- deployment infrastructure;
+- operational environments;
+- internal repositories;
+- private Skills;
+- private Plugins;
+- treasury operations;
+- liquidity management;
+- security controls;
+- internal orchestration;
+- credentials;
+- private documentation;
+- confidential engineering assets.
+
+---
+
+# Engineering Principles
+
+The Public / Private Boundary permanently follows:
+
+- Architecture Before Implementation;
+- Evidence Before Status;
+- Responsible Engineering Communication;
+- Minimal Disclosure;
+- Long-Term Maintainability;
+- Engineering Integrity.
+
+---
+
+# Boundary Statement
+
+Public engineering documentation explains **what** the long-term architecture is intended to achieve.
+
+Private engineering implementation explains **how** the architecture is built.
+
+The distinction between these two domains is permanent.
+
+---
+
+# Long-Term Commitment
+
+Every future publication within the CRYPTO IMPERIAL Ecosystem Public repository will preserve this boundary to ensure trustworthy engineering communication while protecting confidential implementation.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

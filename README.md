@@ -1,8 +1,7 @@
 # CRYPTO-IMPERIAL-Ecosystem-Public
 Official public engineering repository describing the long-term architectural vision, governance and public documentation of the CRYPTO IMPERIAL Ecosystem within IMPERIAL Core.
-# COMMIT 001
 
-## README.md — заменить полностью
+## README.md 
 
 # CRYPTO IMPERIAL Ecosystem
 
@@ -80,19 +79,8 @@ Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
 Architect and final authority of IMPERIAL Core
 
 ---
-
-# COMMIT 002
-
-## README.md — добавить в самый конец
-
-- docs/ARCHITECTURE.md — Public engineering architecture of the CRYPTO IMPERIAL Ecosystem and its long-term role within the IMPERIAL Core ecosystem.
-
-## Создать новый файл
-
+## README.md
 docs/ARCHITECTURE.md
-
-## Что вставить
-
 # CRYPTO IMPERIAL Ecosystem Architecture
 
 Version: 1.0.0
@@ -199,11 +187,7 @@ Initial public repository foundation
 
 Establish the official public engineering repository for the CRYPTO IMPERIAL Ecosystem within the IMPERIAL Core ecosystem by publishing the initial repository identity, public engineering mission, canonical architectural context and long-term documentation direction while preserving the PUBLIC ONLY and MINIMAL DISCLOSURE principles.
 
-## Commit Title (COMMIT 002)
-
 Publish the official public architecture
-
-## Commit Description (COMMIT 002)
 
 Expand the CRYPTO IMPERIAL Ecosystem Public repository by introducing the official public engineering architecture describing its long-term architectural role within the IMPERIAL Core ecosystem while preserving the distinction between architectural vision and implementation through the PUBLIC ONLY and MINIMAL DISCLOSURE principles.
 docs/PUBLIC-TOKEN-REGISTRY.md
@@ -657,6 +641,121 @@ The distinction between these two domains is permanent.
 # Long-Term Commitment
 
 Every future publication within the CRYPTO IMPERIAL Ecosystem Public repository will preserve this boundary to ensure trustworthy engineering communication while protecting confidential implementation.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/GOVERNANCE.md
+# Governance
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Governance
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document defines the public engineering governance principles of the CRYPTO IMPERIAL Ecosystem.
+
+Its objective is to ensure consistent architectural direction, documentation quality and responsible engineering communication throughout the public repository.
+
+---
+
+# Governance Principles
+
+The CRYPTO IMPERIAL Ecosystem follows the permanent engineering principles below:
+
+- Architecture Before Implementation
+- Evidence Before Status
+- Public / Private Boundary
+- Engineering Integrity
+- Responsible Engineering Communication
+- Long-Term Maintainability
+- Canonical Terminology
+- Continuous Improvement
+
+---
+
+# Engineering Authority
+
+Public engineering documentation is maintained under the architectural leadership of:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+All long-term architectural direction originates from the Architect.
+
+---
+
+# Public Engineering Scope
+
+This repository communicates:
+
+- public engineering architecture;
+- governance principles;
+- long-term engineering vision;
+- engineering documentation;
+- public terminology;
+- public contract references;
+- documentation standards.
+
+It intentionally excludes:
+
+- implementation source code;
+- runtime systems;
+- deployment infrastructure;
+- confidential engineering assets;
+- operational procedures;
+- treasury management;
+- private engineering repositories.
+
+---
+
+# Engineering Decision Model
+
+```mermaid
+flowchart TB
+
+A[Architect]
+
+B[IMPERIAL Core]
+
+C[CRYPTO IMPERIAL Ecosystem]
+
+D[Public Engineering Documentation]
+
+A --> B
+B --> C
+C --> D
+```
+
+The diagram above represents public engineering governance only.
+
+It does not represent runtime implementation or operational control.
+
+---
+
+# Long-Term Commitment
+
+The governance model is intended to preserve engineering quality, documentation consistency, architectural transparency and responsible public communication while maintaining the permanent Public / Private Boundary.
 
 ---
 

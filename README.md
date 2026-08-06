@@ -2256,3 +2256,94 @@ Future implementation, if any, must always be supported by reproducible evidence
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
 ---
+docs/WHY-POLYGON.md
+# Why Polygon?
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Documentation
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document explains why the publicly documented digital assets of the CRYPTO IMPERIAL Ecosystem are deployed on the Polygon network.
+
+The explanation describes engineering considerations only.
+
+It does not recommend any blockchain over another and does not claim that one network is universally superior.
+
+---
+
+# Engineering Considerations
+
+A long-term AI-native economy may require infrastructure capable of supporting a very large number of transactions.
+
+From a public engineering perspective, important characteristics include:
+
+- fast transaction confirmation;
+- low transaction fees;
+- EVM compatibility;
+- mature developer ecosystem;
+- broad wallet support;
+- public infrastructure availability.
+
+These characteristics influenced the decision to deploy the documented public contracts on Polygon.
+
+---
+
+# Why This Matters
+
+Future AI-native organizations may generate significantly more transactions than traditional human-operated systems.
+
+Fast confirmation and low transaction costs can become important engineering requirements for machine-to-machine interactions.
+
+The documented public contracts therefore use infrastructure designed to support efficient transaction processing.
+
+---
+
+# Public Status Boundary
+
+The existence of deployed contracts on Polygon does not itself demonstrate:
+
+- production adoption;
+- operational AI payments;
+- economic activity;
+- market demand;
+- ecosystem maturity.
+
+Those claims require independent evidence.
+
+---
+
+# Engineering Before Marketing
+
+The blockchain selection documented here reflects engineering priorities rather than marketing narratives.
+
+Architecture should be based on measurable technical characteristics instead of promotional claims.
+
+---
+
+# Long-Term Vision
+
+The CRYPTO IMPERIAL Ecosystem aims to document a digital asset architecture prepared for future AI-native organizations.
+
+Public documentation should continue distinguishing engineering decisions from commercial outcomes.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

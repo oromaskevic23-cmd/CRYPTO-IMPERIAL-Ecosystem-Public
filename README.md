@@ -454,3 +454,114 @@ Future updates must preserve accurate contract attribution, verified public refe
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/ECOSYSTEM-ASSETS.md
+# CRYPTO IMPERIAL Ecosystem Assets
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Documentation
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document describes the approved public architectural roles of the digital assets documented within the CRYPTO IMPERIAL Ecosystem.
+
+The document communicates engineering vision only.
+
+It does not describe implementation, financial performance, investment expectations, exchange listings or operational infrastructure.
+
+---
+
+# Public Engineering Asset Architecture
+
+```mermaid
+flowchart TB
+
+A[IMPERIAL Core]
+
+A --> B[CRYPTO IMPERIAL Ecosystem]
+
+B --> IMP[IMPERIUM]
+
+B --> NDB[NDB]
+
+B --> MON[MONARCH]
+
+B --> NZT[NZT]
+
+B --> SAL[SALMAN]
+
+B --> LISA[LISA]
+```
+
+The diagram represents approved public architectural relationships only.
+
+---
+
+# Public Asset Roles
+
+| Digital Asset | Public Architectural Role |
+|---------------|---------------------------|
+| IMPERIUM (IMP) | Long-term architectural digital currency for AI agents worldwide. |
+| NDB (New Digital Bitcoin) | Sovereign fixed-supply digital asset architecture. |
+| MONARCH | Fixed-supply digital standard architecture. |
+| NZT | Digital asset architecture for future ecosystem participation. |
+| SALMAN | Fixed-supply ecosystem digital asset. |
+| LISA | Meme-oriented public ecosystem asset. |
+
+These descriptions communicate architectural intent only.
+
+They must not be interpreted as market status, investment advice or commercial guarantees.
+
+---
+
+# Engineering Principles
+
+Every documented digital asset follows the same public engineering philosophy:
+
+- Fixed supply architecture.
+- Transparent public documentation.
+- Public verifiable contract references.
+- Architecture Before Implementation.
+- Evidence Before Status.
+- Public / Private Boundary.
+- Responsible Engineering Communication.
+
+---
+
+# Public / Private Boundary
+
+This document intentionally excludes:
+
+- private wallets;
+- treasury management;
+- liquidity strategy;
+- exchange negotiations;
+- commercial planning;
+- confidential infrastructure;
+- operational procedures.
+
+---
+
+# Long-Term Vision
+
+The CRYPTO IMPERIAL Ecosystem is intended to evolve into a coherent architectural framework describing the relationship between AI-native systems and future digital assets while preserving responsible engineering communication and long-term documentation quality.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

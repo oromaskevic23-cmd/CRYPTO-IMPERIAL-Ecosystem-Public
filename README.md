@@ -206,3 +206,251 @@ Publish the official public architecture
 ## Commit Description (COMMIT 002)
 
 Expand the CRYPTO IMPERIAL Ecosystem Public repository by introducing the official public engineering architecture describing its long-term architectural role within the IMPERIAL Core ecosystem while preserving the distinction between architectural vision and implementation through the PUBLIC ONLY and MINIMAL DISCLOSURE principles.
+docs/PUBLIC-TOKEN-REGISTRY.md
+# CRYPTO IMPERIAL Ecosystem Public Token Registry
+
+Version: 1.0.0
+
+Document Status: Official Public Registry
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document provides the canonical public registry of digital assets documented within the CRYPTO IMPERIAL Ecosystem.
+
+The registry records approved public names, symbols, fixed supplies, network identifiers, deployed contract addresses and public verification references.
+
+This document does not provide investment advice, financial advice, price forecasts, listing guarantees, market valuations or claims of global adoption.
+
+---
+
+# Public Registry Principles
+
+The registry follows permanent engineering principles:
+
+- Evidence Before Status
+- Public / Private Boundary
+- Minimal Disclosure
+- Verifiable Public References
+- No Unsupported Market Claims
+- No Guaranteed Listing Claims
+- No Guaranteed Value Claims
+- Architecture Before Implementation
+
+---
+
+# Canonical Asset Registry
+
+## IMPERIUM
+
+**Name:** IMPERIUM  
+**Symbol:** IMP  
+**Network:** Polygon  
+**Chain ID:** 137  
+**Contract Address:** `0xcFd2149B2b1a9c0A55954A937adBee0DdaA3c9b3`  
+**Fixed Supply:** 1,000,000,000,000 IMP  
+**Decimals:** 18  
+**Public Verification:**  
+`https://repo.sourcify.dev/137/0xcFd2149B2b1a9c0A55954A937adBee0DdaA3c9b3`
+
+IMPERIUM is documented as the long-term architectural digital currency of AI agents worldwide.
+
+This statement describes architectural vision only.
+
+It does not claim current global use, market adoption, exchange listing, liquidity, price or commercial status.
+
+---
+
+## NDB — New Digital Bitcoin
+
+**Name:** N.D.B.  
+**Public Meaning:** New Digital Bitcoin  
+**Symbol:** NDB  
+**Primary Public Network:** Polygon  
+**Chain ID:** 137  
+**Polygon Contract Address:** `0x5F5E3dCa37D12F1bFef21418B066c6ccacbebBE4`  
+**Fixed Supply:** 1,000,000,000 NDB  
+**Decimals:** 18  
+**Polygon Verification:**  
+`https://repo.sourcify.dev/137/0x5F5E3dCa37D12F1bFef21418B066c6ccacbebBE4`
+
+**Public Test Network:** Ethereum Sepolia  
+**Chain ID:** 11155111  
+**Sepolia Contract Address:** `0x3cC7856ae29bB909bab85De47c4ae1fa881F27CA`  
+**Sepolia Verification:**  
+`https://repo.sourcify.dev/11155111/0x3cC7856ae29bB909bab85De47c4ae1fa881F27CA`
+
+The verified deployment references should be treated as the authoritative public evidence for deployed contract code.
+
+A previously shared local source copy contained an incorrect import path with an extra space. That local transcription issue must not be presented as a confirmed defect in the verified deployed contracts.
+
+---
+
+## MONARCH
+
+**Name:** MONARCH  
+**Symbol:** MONARCH  
+**Network:** Polygon  
+**Chain ID:** 137  
+**Contract Address:** `0x96B5b362ea902eaCd9222ba9A6E7CCd43d5a4528`  
+**Fixed Supply:** 500,000,000 MONARCH  
+**Decimals:** 18  
+**Sourcify Verification:**  
+`https://repo.sourcify.dev/137/0x96B5b362ea902eaCd9222ba9A6E7CCd43d5a4528`  
+**PolygonScan Reference:**  
+`https://polygonscan.com/token/0x96B5b362ea902eaCd9222ba9A6E7CCd43d5a4528`
+
+---
+
+## NZT
+
+**Name:** NZT  
+**Symbol:** NZT  
+**Network:** Polygon  
+**Chain ID:** 137  
+**Contract Address:** `0xFbD410Eb877ABd33eB637f93346351a178100AC3`  
+**Fixed Supply:** 1,000,000,000 NZT  
+**Decimals:** 18  
+**Public Verification:**  
+`https://repo.sourcify.dev/137/0xFbD410Eb877ABd33eB637f93346351a178100AC3`
+
+---
+
+## LISA
+
+**Name:** LISA  
+**Symbol:** LISA  
+**Network:** Polygon  
+**Chain ID:** 137  
+**Contract Address:** `0xb570c3686776a052beB44Be89eE16d4d2fc29FAe`  
+**Fixed Supply:** 1,000,000,000,000 LISA  
+**Decimals:** 18  
+**Public Verification:**  
+`https://repo.sourcify.dev/137/0xb570c3686776a052beB44Be89eE16d4d2fc29FAe`
+
+LISA is publicly documented as a meme-oriented digital asset within the CRYPTO IMPERIAL Ecosystem.
+
+This description does not imply market value, exchange availability, liquidity or investment suitability.
+
+---
+
+## SALMAN
+
+**Name:** SALMAN  
+**Symbol:** SALMAN  
+**Network:** Polygon  
+**Chain ID:** 137  
+**Contract Address:** `0xA753462C96339Ed5ED1813749C733D2f4814e8F1`  
+**Fixed Supply:** 999,000,000,000,000 SALMAN  
+**Decimals:** 18  
+**Public Verification:**  
+`https://repo.sourcify.dev/137/0xA753462C96339Ed5ED1813749C733D2f4814e8F1`
+
+---
+
+# Public Technical Characteristics
+
+The provided public contract materials describe fixed-supply digital assets.
+
+Where supported by the verified contract code, the assets may have characteristics such as:
+
+- one-time initial issuance;
+- fixed total supply;
+- no post-deployment mint function;
+- no owner-controlled mint authority;
+- no token tax mechanism;
+- standard transfer and approval functions.
+
+Each statement must be evaluated against the specific verified contract.
+
+The registry must not generalize one contract’s characteristics to every asset without evidence.
+
+---
+
+# Public Verification Boundary
+
+A public verification reference may demonstrate that contract source material corresponds to a deployed address.
+
+It does not automatically demonstrate:
+
+- economic value;
+- legal classification;
+- security certification;
+- independent audit completion;
+- exchange listing;
+- liquidity;
+- commercial adoption;
+- production readiness;
+- absence of all defects.
+
+---
+
+# Author and Public Engineering Identity
+
+The public engineering documentation is maintained under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+Public contract metadata may contain historical author-name formatting variants.
+
+The canonical public identity used throughout current documentation is:
+
+**Alexander Romaskevich**
+
+---
+
+# Public / Private Boundary
+
+This registry intentionally includes:
+
+- public token names;
+- public symbols;
+- public supplies;
+- public network identifiers;
+- public contract addresses;
+- public verification references;
+- approved public architectural descriptions.
+
+This registry intentionally excludes:
+
+- private keys;
+- wallet credentials;
+- signing procedures;
+- internal treasury operations;
+- private deployment procedures;
+- confidential infrastructure;
+- private liquidity strategies;
+- private exchange communications;
+- internal security mechanisms;
+- unpublished commercial plans.
+
+---
+
+# Long-Term Commitment
+
+The Public Token Registry is intended to remain the canonical public reference for digital assets documented within the CRYPTO IMPERIAL Ecosystem.
+
+Future updates must preserve accurate contract attribution, verified public references, canonical naming, responsible disclosure and strict separation between technical evidence and unsupported market claims.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

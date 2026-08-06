@@ -847,3 +847,112 @@ Future publications should strengthen documentation quality, engineering consist
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/ROADMAP.md
+# Public Engineering Roadmap
+
+Version: 1.0.0
+
+Document Status: Official Public Roadmap
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document describes the long-term public engineering roadmap for the CRYPTO IMPERIAL Ecosystem.
+
+The roadmap communicates architectural direction only.
+
+It does not represent implementation progress, production readiness, commercial availability or deployment status.
+
+---
+
+# Roadmap Philosophy
+
+The CRYPTO IMPERIAL Ecosystem is intended to evolve through continuous engineering documentation while preserving architectural consistency and responsible public communication.
+
+Progress is measured by engineering quality rather than publication volume.
+
+---
+
+# Long-Term Engineering Roadmap
+
+```mermaid
+timeline
+
+title CRYPTO IMPERIAL Ecosystem Public Engineering Evolution
+
+Foundation :
+Public Repository
+Architecture
+Governance
+
+Expansion :
+Documentation
+Engineering Standards
+Public Registry
+
+Knowledge :
+Engineering Knowledge
+Navigation
+Public Ecosystem
+
+Maturity :
+Long-Term Documentation
+Engineering Consistency
+Continuous Improvement
+```
+
+The roadmap above represents architectural direction only.
+
+It intentionally excludes implementation schedules, commercial milestones and operational planning.
+
+---
+
+# Public Engineering Objectives
+
+Future public publications are intended to strengthen:
+
+- engineering documentation;
+- architectural transparency;
+- documentation quality;
+- canonical terminology;
+- public engineering consistency;
+- AI readability;
+- long-term knowledge preservation.
+
+---
+
+# Permanent Engineering Commitments
+
+Every future publication will preserve:
+
+- Architecture Before Implementation;
+- Evidence Before Status;
+- Public / Private Boundary;
+- Responsible Engineering Communication;
+- Minimal Disclosure;
+- Engineering Integrity.
+
+---
+
+# Long-Term Vision
+
+The CRYPTO IMPERIAL Ecosystem Public repository is intended to become a comprehensive engineering knowledge portal describing the architectural vision of the ecosystem while preserving truthful communication and protecting confidential implementation.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

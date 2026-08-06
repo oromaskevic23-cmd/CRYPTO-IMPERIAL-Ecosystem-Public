@@ -1389,3 +1389,382 @@ The CRYPTO IMPERIAL Ecosystem is intended to evolve into a coherent engineering 
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+---
+docs/DIGITAL-ASSET-ARCHITECTURE.md
+# CRYPTO IMPERIAL Ecosystem — Digital Asset Architecture
+
+Version: 1.1.0
+
+Document Status: Official Public Engineering Documentation
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document explains why the CRYPTO IMPERIAL Ecosystem contains multiple digital assets, what distinct long-term architectural purpose each asset represents and how the assets are intended to form one coherent ecosystem.
+
+The ecosystem was not designed as a collection of interchangeable tokens.
+
+Each digital asset was created to represent a different economic, strategic, organizational or cultural layer within the long-term architecture of IMPERIAL Core.
+
+This document communicates approved public architectural intent only.
+
+It does not claim current adoption, market value, liquidity, exchange availability, operational utility, legal classification or production readiness.
+
+---
+
+# Why Multiple Digital Assets Exist
+
+A large AI-native ecosystem may require more than one digital asset because different economic responsibilities should not automatically be concentrated within one universal instrument.
+
+The public architectural model separates several distinct concepts:
+
+- global AI-agent settlement;
+- sovereign digital scarcity;
+- premium digital standards;
+- bounded agent-economy units;
+- internal Nano Core Agent economics;
+- public culture and community participation.
+
+This separation allows each asset to preserve a clear identity and long-term architectural purpose.
+
+It also prevents every future economic function from being incorrectly assigned to one asset.
+
+---
+
+# Public Ecosystem Architecture
+
+```mermaid
+flowchart TB
+
+AR["Alexander Romaskevich<br/>Founder • Owner • CEO • Chief Systems Architect"]
+
+AR --> IC["IMPERIAL Core"]
+
+IC --> H["HANTER"]
+
+H --> NCA["Nano Core Agents"]
+
+IC --> CIE["CRYPTO IMPERIAL Ecosystem"]
+
+CIE --> IMP["IMPERIUM<br/>Global AI-Agent Currency Vision"]
+
+CIE --> NDB["NDB — New Digital Bitcoin<br/>Sovereign Fixed-Supply Asset"]
+
+CIE --> MON["MONARCH<br/>Premium Digital Standard"]
+
+CIE --> NZT["NZT<br/>Agent-Economy Value Unit"]
+
+CIE --> SAL["SALMAN<br/>Nano Core Agent Economic Layer"]
+
+CIE --> LISA["LISA<br/>Cultural and Community Asset"]
+```
+
+The diagram represents approved public architectural intent only.
+
+It does not describe implementation architecture, operational settlement, market activity, treasury operations or current commercial availability.
+
+---
+
+# IMPERIUM
+
+## Why It Exists
+
+IMPERIUM is the principal long-term currency architecture of the CRYPTO IMPERIAL Ecosystem.
+
+It is intended to represent a future digital currency for AI agents worldwide and a common economic reference across AI-native organizations built within the broader IMPERIAL Core vision.
+
+## Public Architectural Purpose
+
+IMPERIUM represents:
+
+- the primary ecosystem currency vision;
+- long-term AI-agent economic interoperability;
+- a future common settlement concept;
+- a shared economic identity across the ecosystem.
+
+## Important Status Boundary
+
+IMPERIUM is documented as a **long-term architectural digital currency of AI agents worldwide**.
+
+This does not claim current worldwide use, active settlement, market adoption, liquidity, exchange listing or established monetary value.
+
+---
+
+# NDB — New Digital Bitcoin
+
+## Why It Exists
+
+NDB exists to represent the sovereign scarcity layer of the CRYPTO IMPERIAL Ecosystem.
+
+Its public architectural identity is based on fixed supply, transparent contract logic and the absence of post-deployment monetary control in the provided contract design.
+
+## Public Architectural Purpose
+
+NDB represents:
+
+- sovereign digital scarcity;
+- fixed-supply architecture;
+- long-term reserve-oriented design thinking;
+- independence from future minting authority;
+- transparent and publicly verifiable issuance.
+
+NDB is not described as a replacement for Bitcoin and this repository does not claim equivalent adoption, security, liquidity, decentralization or market status.
+
+The public name **New Digital Bitcoin** identifies the architectural concept and project identity.
+
+---
+
+# MONARCH
+
+## Why It Exists
+
+MONARCH exists to represent a premium digital standard within the ecosystem.
+
+Its architectural identity emphasizes scarcity, fixed issuance, simplicity and the absence of hidden monetary mechanics.
+
+## Public Architectural Purpose
+
+MONARCH represents:
+
+- a premium fixed-supply digital standard;
+- long-term scarcity-oriented architecture;
+- a distinct strategic asset identity;
+- transparent monetary design;
+- separation from the primary settlement role of IMPERIUM.
+
+MONARCH is not publicly presented as a guaranteed store of value, investment product or asset with a guaranteed future price.
+
+---
+
+# NZT
+
+## Why It Exists
+
+NZT exists to represent a distinct high-value unit concept for future AI-agent economic scenarios.
+
+Its architectural purpose is separate from the global currency role of IMPERIUM and the sovereign scarcity role of NDB.
+
+## Public Architectural Purpose
+
+NZT represents:
+
+- a bounded unit for future agent-economy scenarios;
+- a distinct value layer for specialized missions;
+- an economic concept for AI-native professional environments;
+- separation between general settlement and specialized value units.
+
+The repository does not claim that NZT currently performs these functions in production.
+
+It also does not claim any present or guaranteed future market price.
+
+---
+
+# SALMAN
+
+## Why It Exists
+
+SALMAN exists as the architectural economic layer associated with Nano Core Agents and professional agent teams.
+
+Its role is connected to the long-term concept of internal economic coordination among specialized AI-native agents.
+
+## Public Architectural Purpose
+
+SALMAN represents:
+
+- an internal Nano Core Agent economic concept;
+- a professional agent-team value layer;
+- future mission-oriented economic coordination;
+- a distinct asset identity for the Nano Core Agents environment;
+- separation between internal agent economics and the broader IMPERIUM currency vision.
+
+Private economic mechanisms, allocation rules, mission accounting, internal pricing and operational workflows are intentionally not disclosed.
+
+This repository does not claim that SALMAN is currently used by active autonomous agents.
+
+---
+
+# LISA
+
+## Why It Exists
+
+LISA exists to represent the cultural, social and community-oriented layer of the CRYPTO IMPERIAL Ecosystem.
+
+A serious engineering ecosystem may include not only infrastructure and economic standards, but also identity, creativity, communication and public culture.
+
+## Public Architectural Purpose
+
+LISA represents:
+
+- a meme-oriented ecosystem asset;
+- public culture and creative identity;
+- community-oriented communication;
+- a lighter public entry point into the ecosystem;
+- separation between cultural participation and core settlement architecture.
+
+LISA does not promise financial returns, market growth, liquidity or investment performance.
+
+---
+
+# Architectural Separation of Responsibilities
+
+| Asset | Distinct Public Architectural Responsibility |
+|---|---|
+| IMPERIUM | Long-term global AI-agent currency and ecosystem settlement vision |
+| NDB | Sovereign fixed-supply scarcity architecture |
+| MONARCH | Premium scarcity-oriented digital standard |
+| NZT | Specialized agent-economy value-unit concept |
+| SALMAN | Internal Nano Core Agent and professional team economic layer |
+| LISA | Cultural, meme-oriented and community asset |
+
+The roles above explain why the assets are not duplicates.
+
+They represent different layers of one long-term architectural system.
+
+---
+
+# How the Assets Are Intended to Work Together
+
+The public ecosystem concept may be understood through six complementary layers:
+
+```text
+IMPERIUM
+Primary AI-agent currency vision
+        ↓
+NDB
+Sovereign scarcity and reserve-oriented architecture
+        ↓
+MONARCH
+Premium digital standard
+        ↓
+NZT
+Specialized agent-economy value unit
+        ↓
+SALMAN
+Nano Core Agent internal economic layer
+        ↓
+LISA
+Culture, communication and community identity
+```
+
+This sequence is an explanatory public model.
+
+It is not a transaction flow, exchange mechanism, price hierarchy, liquidity structure or deployed economic system.
+
+---
+
+# One Ecosystem, Distinct Responsibilities
+
+The CRYPTO IMPERIAL Ecosystem is designed around specialization.
+
+The assets should not be interpreted as six competing versions of the same token.
+
+Their public architectural identities are intentionally different:
+
+- IMPERIUM provides the principal currency vision.
+- NDB provides the sovereign scarcity vision.
+- MONARCH provides the premium digital standard.
+- NZT provides a specialized agent-economy unit concept.
+- SALMAN provides the Nano Core Agent economic layer.
+- LISA provides the cultural and community layer.
+
+Together they express a broader economic architecture for AI-native systems.
+
+---
+
+# Verifiable Technical Foundation
+
+The public repository separately records verified contract addresses, networks, fixed supplies and public verification references within:
+
+`docs/PUBLIC-TOKEN-REGISTRY.md`
+
+Technical verification demonstrates the existence and published code correspondence of specific deployed contracts where supported by the referenced verification service.
+
+Technical verification does not prove:
+
+- economic value;
+- market demand;
+- exchange listing;
+- liquidity;
+- legal status;
+- security certification;
+- operational adoption;
+- investment suitability.
+
+---
+
+# Public / Private Boundary
+
+This document intentionally includes:
+
+- approved public architectural roles;
+- long-term ecosystem design philosophy;
+- public relationships between assets;
+- public technical and status boundaries.
+
+This document intentionally excludes:
+
+- private treasury strategy;
+- wallet credentials;
+- private keys;
+- liquidity plans;
+- exchange negotiations;
+- internal allocation strategy;
+- private economic algorithms;
+- agent accounting mechanisms;
+- operational settlement design;
+- confidential commercial planning;
+- security-sensitive infrastructure.
+
+---
+
+# Engineering Principles
+
+The Digital Asset Architecture follows:
+
+- Architecture Before Implementation;
+- Evidence Before Status;
+- Distinct Responsibilities;
+- Public / Private Boundary;
+- Minimal Disclosure;
+- Responsible Engineering Communication;
+- No Unsupported Market Claims;
+- No Guaranteed Value Claims;
+- Long-Term Architectural Consistency.
+
+---
+
+# Long-Term Vision
+
+The long-term objective of the CRYPTO IMPERIAL Ecosystem is to develop a coherent digital asset architecture for future AI-native organizations, professional agent teams and broader machine economies.
+
+Each asset preserves its own identity while contributing to one unified architectural vision under IMPERIAL Core.
+
+Future documentation must continue distinguishing:
+
+- vision from current utility;
+- architecture from implementation;
+- technical existence from economic adoption;
+- fixed supply from guaranteed value;
+- public documentation from private economic design.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+---

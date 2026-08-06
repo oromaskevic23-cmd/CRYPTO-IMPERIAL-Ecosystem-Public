@@ -2347,3 +2347,104 @@ Public documentation should continue distinguishing engineering decisions from c
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+---
+docs/WHY-FIXED-SUPPLY.md
+# Why Fixed Supply?
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Documentation
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document explains why the publicly documented digital assets of the CRYPTO IMPERIAL Ecosystem are designed around fixed-supply principles.
+
+The explanation focuses on engineering architecture rather than financial advice or investment considerations.
+
+---
+
+# Engineering Philosophy
+
+A digital asset should have predictable monetary rules.
+
+From an engineering perspective, transparency becomes significantly easier when supply is defined once and cannot later be modified through administrative control.
+
+A fixed-supply architecture allows engineers, researchers and future ecosystem participants to understand the monetary model from the beginning.
+
+---
+
+# Why Fixed Supply?
+
+Within the documented public architecture, fixed supply provides several engineering advantages.
+
+It establishes:
+
+- predictable monetary behavior;
+- transparent issuance;
+- reproducible verification;
+- simpler technical auditing;
+- permanent supply definition;
+- reduced architectural complexity.
+
+These characteristics support long-term engineering consistency.
+
+---
+
+# Public Verification
+
+The documented public contracts are designed so that the total supply is defined by the contract itself.
+
+This architectural approach allows independent verification through publicly available blockchain explorers and contract verification services.
+
+---
+
+# Public Status Boundary
+
+A fixed supply does not guarantee:
+
+- market value;
+- price appreciation;
+- liquidity;
+- adoption;
+- commercial success;
+- investment performance.
+
+It only defines a transparent monetary architecture.
+
+---
+
+# Engineering Before Speculation
+
+The purpose of fixed supply is architectural predictability.
+
+Engineering decisions should remain independent from speculative narratives.
+
+Public documentation therefore describes technical properties rather than financial expectations.
+
+---
+
+# Long-Term Vision
+
+The CRYPTO IMPERIAL Ecosystem is intended to demonstrate that long-term digital asset architecture benefits from transparent, immutable and publicly understandable monetary rules.
+
+Future engineering documentation should continue distinguishing technical characteristics from market outcomes.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

@@ -179,11 +179,7 @@ Future publications will continue strengthening the public engineering documenta
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
 
-## Commit Title (COMMIT 001)
-
 Initial public repository foundation
-
-## Commit Description (COMMIT 001)
 
 Establish the official public engineering repository for the CRYPTO IMPERIAL Ecosystem within the IMPERIAL Core ecosystem by publishing the initial repository identity, public engineering mission, canonical architectural context and long-term documentation direction while preserving the PUBLIC ONLY and MINIMAL DISCLOSURE principles.
 
@@ -756,6 +752,95 @@ It does not represent runtime implementation or operational control.
 # Long-Term Commitment
 
 The governance model is intended to preserve engineering quality, documentation consistency, architectural transparency and responsible public communication while maintaining the permanent Public / Private Boundary.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/ARCHITECTURAL-PRINCIPLES.md
+# Architectural Principles
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Principles
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document defines the permanent architectural principles governing the long-term development of the CRYPTO IMPERIAL Ecosystem.
+
+These principles provide a stable engineering foundation for future public documentation while preserving consistency across the IMPERIAL Core ecosystem.
+
+---
+
+# Core Engineering Principles
+
+The CRYPTO IMPERIAL Ecosystem permanently adopts the following principles:
+
+- Architecture Before Implementation
+- Evidence Before Status
+- Public / Private Boundary
+- Engineering Integrity
+- Responsible Engineering Communication
+- Long-Term Maintainability
+- Canonical Terminology
+- Documentation First
+- Continuous Improvement
+- Transparency Through Public Documentation
+
+---
+
+# Public Engineering Philosophy
+
+Public engineering documentation should explain architectural intent clearly, consistently and responsibly.
+
+Every published document should improve understanding without exposing confidential implementation or operational infrastructure.
+
+---
+
+# Engineering Lifecycle
+
+```mermaid
+flowchart LR
+
+A[Architecture]
+
+--> B[Specification]
+
+--> C[Implementation]
+
+--> D[Verification]
+
+--> E[Documentation]
+
+--> F[Continuous Improvement]
+```
+
+This diagram represents the public engineering lifecycle only.
+
+It does not describe deployment processes, runtime execution or production infrastructure.
+
+---
+
+# Long-Term Commitment
+
+The architectural principles described in this document are intended to remain stable as the CRYPTO IMPERIAL Ecosystem evolves.
+
+Future publications should strengthen documentation quality, engineering consistency and architectural transparency while preserving the PUBLIC ONLY and MINIMAL DISCLOSURE philosophy.
 
 ---
 

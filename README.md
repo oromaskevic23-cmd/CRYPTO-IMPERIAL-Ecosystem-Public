@@ -1232,3 +1232,160 @@ This glossary is intended to remain the canonical public terminology reference f
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/DIGITAL-ASSET-ARCHITECTURE.md
+# Digital Asset Architecture
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Documentation
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This document explains the approved public architectural relationships between the digital assets documented within the CRYPTO IMPERIAL Ecosystem.
+
+Its objective is to help engineers, researchers, organizations and AI systems understand why multiple digital assets exist within one engineering ecosystem.
+
+This document communicates architectural intent only.
+
+It does not describe implementation, financial products, investment opportunities, exchange listings or operational infrastructure.
+
+---
+
+# Engineering Philosophy
+
+The CRYPTO IMPERIAL Ecosystem is publicly envisioned as an engineering ecosystem rather than a collection of unrelated digital assets.
+
+Each documented asset represents a distinct architectural role.
+
+Together they form complementary engineering components within one long-term ecosystem.
+
+---
+
+# Public Engineering Architecture
+
+```mermaid
+flowchart TB
+
+A[Alexander Romaskevich]
+
+B[IMPERIAL Core]
+
+C[CRYPTO IMPERIAL Ecosystem]
+
+D[IMPERIUM]
+
+E[NDB]
+
+F[MONARCH]
+
+G[NZT]
+
+H[SALMAN]
+
+I[LISA]
+
+A --> B
+B --> C
+
+C --> D
+C --> E
+C --> F
+C --> G
+C --> H
+C --> I
+```
+
+The diagram above represents approved public architectural relationships only.
+
+It intentionally excludes implementation, runtime systems, operational infrastructure and confidential engineering assets.
+
+---
+
+# Public Architectural Roles
+
+## IMPERIUM
+
+Documented as the long-term architectural digital currency of AI agents worldwide.
+
+This statement represents architectural vision only.
+
+---
+
+## NDB
+
+Publicly documented as **New Digital Bitcoin**.
+
+Represents the sovereign fixed-supply digital asset architecture within the ecosystem.
+
+---
+
+## MONARCH
+
+Represents a public fixed-supply digital standard architecture.
+
+---
+
+## NZT
+
+Represents a public fixed-supply digital asset documented for future ecosystem participation.
+
+---
+
+## SALMAN
+
+Represents a fixed-supply ecosystem digital asset documented within the public engineering architecture.
+
+---
+
+## LISA
+
+Represents the meme-oriented public digital asset documented within the ecosystem.
+
+---
+
+# Why Multiple Digital Assets?
+
+Within the approved public engineering architecture, different digital assets may represent different architectural responsibilities.
+
+Their existence should be interpreted as part of one engineering ecosystem rather than as isolated independent projects.
+
+This document intentionally does not assign commercial, financial or operational functions.
+
+---
+
+# Engineering Principles
+
+Every public architectural description preserves:
+
+- Architecture Before Implementation;
+- Evidence Before Status;
+- Public / Private Boundary;
+- Responsible Engineering Communication;
+- Engineering Transparency;
+- Minimal Disclosure.
+
+---
+
+# Long-Term Vision
+
+The CRYPTO IMPERIAL Ecosystem is intended to evolve into a coherent engineering architecture where every documented digital asset contributes a distinct architectural purpose while preserving consistent engineering principles and responsible public communication.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

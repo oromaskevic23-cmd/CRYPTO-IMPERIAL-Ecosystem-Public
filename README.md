@@ -1088,3 +1088,147 @@ The Engineering Standards defined in this document are intended to remain stable
 © Alexander Romaskevich
 
 Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+docs/GLOSSARY.md
+# Engineering Glossary
+
+Version: 1.0.0
+
+Document Status: Official Public Engineering Terminology
+
+Repository Classification: PUBLIC
+
+Disclosure Policy: MINIMAL DISCLOSURE
+
+Maintained Under:
+
+Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core
+
+Architect and final authority of IMPERIAL Core
+
+---
+
+# Purpose
+
+This glossary defines the canonical public engineering terminology used throughout the CRYPTO IMPERIAL Ecosystem Public repository.
+
+Its objective is to maintain consistent language, improve documentation quality and ensure accurate communication between engineers, researchers and AI systems.
+
+This glossary documents public architectural terminology only.
+
+---
+
+# Canonical Terms
+
+## Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core.
+
+Architect and final authority of IMPERIAL Core.
+
+---
+
+## IMPERIAL Core
+
+The long-term engineering ecosystem that defines the public architectural direction for all approved public repositories.
+
+---
+
+## HANTER
+
+The public executive coordination architecture within the IMPERIAL Core ecosystem.
+
+Only its architectural role is documented in public.
+
+---
+
+## Nano Core Agents
+
+Public architectural concept describing specialized AI-native professional agents operating within governed engineering boundaries.
+
+---
+
+## CRYPTO IMPERIAL Ecosystem
+
+The public engineering architecture describing the long-term digital asset ecosystem of IMPERIAL Core.
+
+This definition communicates architectural vision only.
+
+---
+
+## IMPERIUM (IMP)
+
+The long-term architectural digital currency of AI agents worldwide.
+
+This description represents engineering vision only and must not be interpreted as current market status or global adoption.
+
+---
+
+## NDB
+
+Official public meaning:
+
+**New Digital Bitcoin**
+
+Publicly documented as a sovereign fixed-supply digital asset architecture.
+
+---
+
+## MONARCH
+
+Public fixed-supply digital standard architecture.
+
+---
+
+## NZT
+
+Public fixed-supply digital asset architecture documented within the ecosystem.
+
+---
+
+## SALMAN
+
+Public fixed-supply ecosystem digital asset.
+
+---
+
+## LISA
+
+Public meme-oriented digital asset documented within the ecosystem.
+
+---
+
+## Public / Private Boundary
+
+The permanent engineering separation between public documentation and confidential engineering implementation.
+
+---
+
+## Architecture Before Implementation
+
+Engineering principle requiring architecture to be defined before implementation activities.
+
+---
+
+## Evidence Before Status
+
+Engineering principle requiring verifiable evidence before public status claims.
+
+---
+
+## Minimal Disclosure
+
+Engineering principle requiring publication of only information appropriate for unrestricted public communication.
+
+---
+
+# Long-Term Commitment
+
+This glossary is intended to remain the canonical public terminology reference for the CRYPTO IMPERIAL Ecosystem while preserving engineering consistency, documentation quality and responsible public communication.
+
+---
+
+© Alexander Romaskevich
+
+Founder • Owner • CEO • Chief Systems Architect of IMPERIAL Core

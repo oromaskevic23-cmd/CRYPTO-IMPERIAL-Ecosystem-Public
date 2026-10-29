@@ -8,8 +8,8 @@
 ## Verified repository facts
 
 - **Observed root:** README-only public crypto documentation.
-- **Specific governance/security caution:** Keep six tokens legally separate from company stock; no valuation or liquidity claims without on-chain evidence.
-- **Not proven in this review:** deployment, tests, security audit, actual billion-agent capacity, revenue, legal corporate formation or issued shares.
+- **Specific governance/security caution:** Do not imply legal ownership, valuation or liquidity from token architecture; require applicable evidence.
+- **Not proven in this review:** deployment, tests, security audit, actual billion-agent capacity, revenue, legal corporate formation.
 
 ## Enterprise readiness contract
 
@@ -22,11 +22,11 @@
 | Isolation/recovery | Authorized domains, quotas, rollback and kill switch | UNVERIFIED |
 | Auditability | Traceable mission, permits, policy versions and ProofGraph | SPECIFICATION |
 | Operational readiness | Observed E5 runtime and E6 production evidence | NOT CLAIMED |
-| Publication | No leaked secrets, no unsubstantiated patent or equity claims | REVIEW REQUIRED |
+| Publication | No leaked secrets, no unsubstantiated legal claims | REVIEW REQUIRED |
 
 **Universal NCA:** The IMPERIAL Core vision is a one-human-founder, LLM-assisted **digital corporation of universal NCA**, intended for a possible **1 to 1,000,000,000 identities**, not a billion executing workers. Professional roles are dynamic but subject to per-mission authorization. **HANTER** coordinates without a global privileged executor; **VELION** is the canonical intelligence component.
 
-**Human governance:** Identity ≠ Authority; Capability ≠ Approval; Zero Trust; Deny by Default; Fail Closed. Security agents act only on owned/authorized systems. Company shares and tokens are different legal interests.
+**Human governance:** Identity ≠ Authority; Capability ≠ Approval; Zero Trust; Deny by Default; Fail Closed. Security agents act only on owned/authorized systems. Technical architecture does not establish legal ownership.
 
 ## Evidence-gated implementation next steps
 

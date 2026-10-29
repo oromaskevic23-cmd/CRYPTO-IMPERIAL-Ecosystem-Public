@@ -2,8 +2,25 @@
 
 Separate blockchain-development direction for NDB, IMPERIUM and related architectural work.
 
-**Status: SPECIFIED — public architecture; live networks, liquidity, market adoption and value are outside this audit.**  
-Evidence checkpoint: **25 October 2026**.
+**Status (29 October 2026):** The specified NDB and IMPERIUM contracts are deployed and source-matched on Polygon. Source matching is not an independent audit and does not establish liquidity, exchange listing, adoption or production payments.
+
+<p align="center">
+  <a href="https://github.com/oromaskevic23-cmd/IMPERIUM-"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/IMPERIUM-/main/assets/imperium-hero-20261029.jpg" alt="IMPERIUM digital emblem" width="220" /></a>
+  <a href="https://github.com/oromaskevic23-cmd/N.D.B-"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/N.D.B-/main/assets/ndb-hero-20261029.jpg" alt="NDB digital emblem" width="220" /></a>
+</p>
+
+## IMPERIUM & NDB
+
+**Two projects. One evidence-led ecosystem.** Explore the source records, development work and the boundaries of each project.
+
+| Project | Direction | Polygon contract | Start here |
+| --- | --- | --- | --- |
+| **IMPERIUM** | Researching future settlement for AI-agent services; the current governance prototype is offline. | [0xcFd2149B2b1a9c0A55954A937adBee0DdaA3c9b3](https://repo.sourcify.dev/137/0xcFd2149B2b1a9c0A55954A937adBee0DdaA3c9b3) | [IMPERIUM repository](https://github.com/oromaskevic23-cmd/IMPERIUM-) |
+| **NDB — New Digital Bitcoin** | A distinct Polygon token project, with a read-only contract-observation tool. | [0x5F5E3dCa37D12F1bFef21418B066c6ccacbebBE4](https://repo.sourcify.dev/137/0x5F5E3dCa37D12F1bFef21418B066c6ccacbebBE4) | [NDB repository](https://github.com/oromaskevic23-cmd/N.D.B-) |
+
+Both source links are **Sourcify Exact Match** records for Polygon PoS Mainnet (chain ID 137). NDB is not Bitcoin or an official Bitcoin project. Neither source verification nor this page is a security audit, an offer to buy tokens, or a guarantee of returns. Market and operational claims require separate current evidence.
+
+Developers and researchers can explore the repositories, reproduce the published offline tests and review the documented next steps. Never share a recovery phrase or private key.
 
 ## Founder and architectural authority
 

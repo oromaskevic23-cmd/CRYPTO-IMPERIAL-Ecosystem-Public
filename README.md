@@ -21,6 +21,12 @@ The public default-branch tree contains documentation. Source embedded in a READ
 
 NDB and IMPERIUM are separate blockchain-development projects. **IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide**, not a claim of current global use or market status. This repository makes no token valuation, liquidity, return or adoption claim.
 
+## Project repositories
+
+- [NDB — New Digital Bitcoin](https://github.com/oromaskevic23-cmd/N.D.B-) — contract identity, source references and a read-only observation tool.
+- [IMPERIUM](https://github.com/oromaskevic23-cmd/IMPERIUM-) — long-term architectural digital currency envisioned for AI agents worldwide; source references and an offline settlement-governance prototype.
+- [Nano Core Agents](https://github.com/oromaskevic23-cmd/Nano-Core-Agents-Public) — federated professional-agent architecture.
+
 ## Architecture and governance
 
 Preserve the Federated Multi-Orchestrator Architecture, multiple organizational structures, professional teams and dynamic Nano Core Agents. AI Passport, Enterprise Skills, Guardian Core, Approval Gateway and Audit Ledger remain architectural requirements. Identity ≠ Authority; Capability ≠ Approval. Zero Trust, Deny by Default and Fail Closed apply across the Public / Private Boundary and CRYPTO IMPERIAL Ecosystem Boundary.

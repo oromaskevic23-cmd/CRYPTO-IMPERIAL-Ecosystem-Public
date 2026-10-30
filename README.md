@@ -1,5 +1,8 @@
 # CRYPTO IMPERIAL Ecosystem
 
+**Project creator / founding architect:** Alexander Nikolaevich Romaskevich (RomaskevicH). [Authorship](AUTHORS.md) · [License inventory](governance/LICENSE_INVENTORY.md).
+
+
 Separate blockchain-development direction for NDB, IMPERIUM and related architectural work.
 
 **Status (29 October 2026):** The specified NDB and IMPERIUM contracts are deployed and source-matched on Polygon. Source matching is not an independent audit and does not establish liquidity, exchange listing, adoption or production payments.

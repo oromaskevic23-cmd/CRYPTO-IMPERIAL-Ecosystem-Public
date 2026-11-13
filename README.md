@@ -1,13 +1,25 @@
 # CRYPTO IMPERIAL Ecosystem
 
 <p align="center">
+  <img src="assets/crypto-imperial-ecosystem-banner-20261113.jpg" alt="CRYPTO IMPERIAL Ecosystem — official blue diamond artwork" width="620" />
+</p>
+
+**Digital asset research and blockchain engineering within IMPERIAL Core.**
+
+Separate blockchain-development direction for NDB, IMPERIUM and related architectural work. IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide; NDB is a distinct Polygon token project.
+
+<p align="center">
+  <img src="assets/ndb-digital-standard-banner-20261113.jpg" alt="NDB — Digital Standard of 2026, CRYPTO IMPERIAL Ecosystem concept artwork" width="620" />
+</p>
+
+*Brand artwork: “Digital Standard of 2026” is a project slogan, not a claim of formal standardization, adoption or market status.*
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/oromaskevic23-cmd/oromaskevic23-cmd/main/assets/alexander-romaskevich-portrait-20261110.jpg" alt="Alexander Nikolaevich Romaskevich, Founder, Owner and CEO of IMPERIAL Core" width="160" />
 </p>
 
 **Project creator / founding architect:** Alexander Nikolaevich Romaskevich (RomaskevicH). [Authorship](AUTHORS.md) · [License inventory](governance/LICENSE_INVENTORY.md).
 
-
-Separate blockchain-development direction for NDB, IMPERIUM and related architectural work.
 
 **Status (29 October 2026):** The specified NDB and IMPERIUM contracts are deployed and source-matched on Polygon. Source matching is not an independent audit and does not establish liquidity, exchange listing, adoption or production payments.
 

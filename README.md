@@ -6,7 +6,7 @@
 
 **Digital asset research and blockchain engineering within IMPERIAL Core.**
 
-Separate blockchain-development direction for NDB, IMPERIUM and related architectural work. IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide; NDB is a distinct Polygon token project.
+Separate blockchain-development directions for IMPERIUM, NZT and NDB, each with its own technical identity. IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide; NZT and NDB are distinct digital-asset projects.
 
 <p align="center">
   <img src="assets/ndb-digital-standard-banner-20261113.jpg" alt="NDB — Digital Standard of 2026, CRYPTO IMPERIAL Ecosystem concept artwork" width="620" />
@@ -24,20 +24,22 @@ Separate blockchain-development direction for NDB, IMPERIUM and related architec
 **Status (29 October 2026):** The specified NDB and IMPERIUM contracts are deployed and source-matched on Polygon. Source matching is not an independent audit and does not establish liquidity, exchange listing, adoption or production payments.
 
 <p align="center">
-  <a href="https://github.com/oromaskevic23-cmd/IMPERIUM"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/IMPERIUM/main/assets/imperium-hero-20261029.jpg" alt="IMPERIUM digital emblem" width="220" /></a>
-  <a href="https://github.com/oromaskevic23-cmd/N.D.B"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/N.D.B/main/assets/ndb-hero-20261029.jpg" alt="NDB digital emblem" width="220" /></a>
+  <a href="https://github.com/oromaskevic23-cmd/IMPERIUM"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/IMPERIUM/main/assets/imperium-hero-20261029.jpg" alt="IMPERIUM original emblem" width="30%" /></a>
+  <a href="https://github.com/oromaskevic23-cmd/NZT-"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/NZT-/main/assets/NZT-DUBAI.jpg" alt="NZT original Dubai-inspired digital-asset emblem — centered" width="30%" /></a>
+  <a href="https://github.com/oromaskevic23-cmd/N.D.B"><img src="https://raw.githubusercontent.com/oromaskevic23-cmd/N.D.B/main/assets/ndb-hero-20261029.jpg" alt="NDB original emblem" width="30%" /></a>
 </p>
 
-## IMPERIUM & NDB
+## IMPERIUM · NZT · NDB
 
-**Two projects. One evidence-led ecosystem.** Explore the source records, development work and the boundaries of each project.
+**Three separate projects. One evidence-led ecosystem.** Explore each repository, distinguish documented facts from declared identifiers, and maintain the CRYPTO IMPERIAL Ecosystem Boundary.
 
 | Project | Direction | Polygon contract | Start here |
 | --- | --- | --- | --- |
 | **IMPERIUM** | Researching future settlement for AI-agent services; the current governance prototype is offline. | [0xcFd2149B2b1a9c0A55954A937adBee0DdaA3c9b3](https://repo.sourcify.dev/137/0xcFd2149B2b1a9c0A55954A937adBee0DdaA3c9b3) | [IMPERIUM repository](https://github.com/oromaskevic23-cmd/IMPERIUM) |
+| **NZT** | Separate digital-asset project; on-chain verification and independent contract assessment pending. | Owner-declared Polygon reference: [0xFbD410Eb877ABd33eB637f93346351a178100AC3](https://polygonscan.com/token/0xFbD410Eb877ABd33eB637f93346351a178100AC3) (**unverified**) | [NZT repository](https://github.com/oromaskevic23-cmd/NZT-) |
 | **NDB — New Digital Bitcoin** | A distinct Polygon token project, with a read-only contract-observation tool. | [0x5F5E3dCa37D12F1bFef21418B066c6ccacbebBE4](https://repo.sourcify.dev/137/0x5F5E3dCa37D12F1bFef21418B066c6ccacbebBE4) | [NDB repository](https://github.com/oromaskevic23-cmd/N.D.B) |
 
-Both source links are **Sourcify Exact Match** records for Polygon PoS Mainnet (chain ID 137). NDB is not Bitcoin or an official Bitcoin project. Neither source verification nor this page is a security audit, an offer to buy tokens, or a guarantee of returns. Market and operational claims require separate current evidence.
+The IMPERIUM and NDB source links above are documented as **Sourcify Exact Match** records for Polygon PoS Mainnet (chain ID 137). **NZT is not included in that source-verification claim**; its contract address is owner-declared and live independent verification remains pending. NDB is not Bitcoin or an official Bitcoin project. Neither source verification nor this page is a security audit, an offer to buy tokens, or a guarantee of returns. Market and operational claims require separate current evidence.
 
 Developers and researchers can explore the repositories, reproduce the published offline tests and review the documented next steps. Never share a recovery phrase or private key.
 
@@ -53,12 +55,13 @@ Architect / Final Architectural Decision Authority
 
 The public default-branch tree contains documentation. Source embedded in a README is not a separately runnable, verified implementation. No public runtime CI result is asserted.
 
-## NDB & IMPERIUM
+## IMPERIUM, NZT and NDB
 
-NDB and IMPERIUM are separate blockchain-development projects. **IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide**, not a claim of current global use or market status. This repository makes no token valuation, liquidity, return or adoption claim.
+IMPERIUM, NZT and NDB are separate blockchain-development projects. **IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide**, not a claim of current global use or market status. This repository makes no token valuation, liquidity, return or adoption claim.
 
 ## Project repositories
 
+- [NZT](https://github.com/oromaskevic23-cmd/NZT-) — token identity reference, original Dubai-inspired emblem and read-only offline verification tests; live independent contract verification pending.
 - [NDB — New Digital Bitcoin](https://github.com/oromaskevic23-cmd/N.D.B) — contract identity, source references and a read-only observation tool.
 - [IMPERIUM](https://github.com/oromaskevic23-cmd/IMPERIUM) — long-term architectural digital currency envisioned for AI agents worldwide; source references and an offline settlement-governance prototype.
 - [Nano Core Agents](https://github.com/oromaskevic23-cmd/Nano-Core-Agents-Public) — federated professional-agent architecture.
